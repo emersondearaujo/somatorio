@@ -14,7 +14,7 @@ function somatorioDivisiveisPor3ou5(limite) {
     console.log(`Para ${numero}, o somatório é: ${resultado}`);
   }
   
-  //Para mudar o resultado, altere o número abaixo
+  //Para mudar o resultado, altere o número abaixo para 11, salve o código e execute novamente
   const limiteExemplo = 10;
   const resultadoExemplo = somatorioDivisiveisPor3ou5(limiteExemplo);
   imprimirResultado(limiteExemplo, resultadoExemplo);
